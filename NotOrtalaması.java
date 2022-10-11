@@ -20,7 +20,7 @@ public class NotOrtalaması {
         System.out.println("Ortalamanız: "+ortalama);
 
         boolean gecti=(ortalama>60);
-        boolean kaldı=(ortalama<=60);
+        boolean kaldi=(ortalama<=60);
         String durum=(gecti)? "Sınıfı Geçti":"Sınıfta Kaldı";
         System.out.print(durum);
 
