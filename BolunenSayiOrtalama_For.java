@@ -10,7 +10,6 @@ public class BolunenSayiOrtalama_For {
             if (i%3==0 && i%4==0){
                 sum+=i;
                 j++;
-
             }
         }
         if (j==0)
@@ -21,15 +20,6 @@ public class BolunenSayiOrtalama_For {
             average=sum/j;
             System.out.println(k+" sayısına kadar olan 3'e ve 4'e tam bölünen \nSayıların ortalaması:"+average);
         }
-
-
-
-
-
-
-
-
-
 
         /* VIDEO SONUNDA WHILE ILE YAPILMASI ÖNERİLDİ.
         int k,i=1;
