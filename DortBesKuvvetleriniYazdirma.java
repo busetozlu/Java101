@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class DortBesKuvvetleriniYazdırma {
+public class DortBesKuvvetleriniYazdirma {
     public static void main(String[]args){
         int i,number;
         Scanner input=new Scanner(System.in);
