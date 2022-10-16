@@ -10,8 +10,7 @@ public class CiftveDordunKatlariniToplama {
                total+=i;
            }
        }while (i%2==0);
-        System.out.println("Girilen çift ve dördün katları " +
-                            "olan sayıların toplamı: "+total);
+        System.out.println("Girilen çift ve dördün katları olan sayıların toplamı: "+total);
     }
 
 }
