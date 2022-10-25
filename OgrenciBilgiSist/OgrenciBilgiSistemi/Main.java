@@ -15,7 +15,7 @@ public class Main {
         s1.addBulkExamNote(10,50,30,50,80,90);
         s1.isPass();
         Student s2=new Student("Levent Tozlu","444","4",tarih,fizik,biyoloji);
-        s2.addBulkExamNote(80,90,10,90,80,70);
+        s2.addBulkExamNote(40,90,10,90,80,70);
         s2.isPass();
     }
 }
