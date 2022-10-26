@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BoxOyunu/BoxOyunu.iml" filepath="$PROJECT_DIR$/BoxOyunu/BoxOyunu.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Java-101.iml" filepath="$PROJECT_DIR$/.idea/Java-101.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MaasHesaplayici/MaasHesaplayici.iml" filepath="$PROJECT_DIR$/MaasHesaplayici/MaasHesaplayici.iml" />
       <module fileurl="file://$PROJECT_DIR$/OgrenciBilgiSist/src.iml" filepath="$PROJECT_DIR$/OgrenciBilgiSist/src.iml" />
     </modules>
   </component>
